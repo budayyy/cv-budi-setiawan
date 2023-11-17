@@ -1,6 +1,6 @@
 {
   "name": "cv-budi-setiawan",
-  "private": true,
+  "private": false,
   "homepage": "https://budayyy.github.io/cv-budi-setiawan",
   "version": "0.0.0",
   "type": "module",
