@@ -12,7 +12,7 @@ function Header() {
       <div className="w-full lg:w-1/3 flex justify-center items-center mb-4 lg:mb-0">
         <div className="h-40 w-40 lg:h-60 lg:w-60 rounded-full overflow-hidden">
           <img
-            src="/img/budi-foto.jpg"
+            src="./img/budi-foto.jpg"
             alt="budi-foto"
             className="bg-cover bg-center"
           />
